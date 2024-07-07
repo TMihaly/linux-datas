@@ -12,7 +12,7 @@ https://github.com/chubin/wttr.in
 with this you can check both the weather and the current time.
 
 # ASCII art
-create an ascii art:
+create an ascii art:\n
 nano teve_ascii.txt
 put the art inside of it
 # Display the ASCII front of the datas
